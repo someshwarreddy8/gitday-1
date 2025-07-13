@@ -9,3 +9,5 @@ resource "aws_instance" "pipelineinstace" {
 tags = {
 Name = "pipeline ec2"
 }
+
+}
